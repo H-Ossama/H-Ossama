@@ -67,7 +67,3 @@ I am a **Full-Stack Web Developer** with a strong background in **Computer Netwo
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=H-Ossama&theme=tokyonight&hide_border=true&background=0D1117" alt="H-Ossama's Streak" />
-</div>
